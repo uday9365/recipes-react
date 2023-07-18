@@ -1,0 +1,14 @@
+
+
+.image-container {
+  width: 100%; /* Desired width of the container */
+  height: 100%; /* Desired height of the container */
+  /* background-image: url(../image/image1.jpg); */
+  background-size: cover; /* Resize the image to cover the entire container */
+  color: rgb(44, 45, 45);
+  
+}
+
+p{
+  padding: 20px;
+}
